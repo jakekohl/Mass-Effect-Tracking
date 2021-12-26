@@ -13,10 +13,10 @@ Armstrong Nebula
 	Hong
 	Tereshkova
 	Vamshi
-Artemis Tau
-	Athens
-	Knossos
-	Macedon
+Artemis Tau -
+	Athens -
+	Knossos -
+	Macedon -
 	Sparta -
 Attican Beta
 	Hercules
