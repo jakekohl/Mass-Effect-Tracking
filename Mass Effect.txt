@@ -2,7 +2,10 @@ Mass Effect Progress
 
 Key 
 Completed -
+Current X
 
+TO DO
+----------
 Argos Rho
 	Gorgon
 	Hydra
@@ -13,11 +16,6 @@ Armstrong Nebula
 	Hong
 	Tereshkova
 	Vamshi
-Artemis Tau -
-	Athens -
-	Knossos -
-	Macedon -
-	Sparta -
 Attican Beta
 	Hercules
 	Theseus
@@ -27,8 +25,8 @@ Exodus
 Gemini Sigma
 	Han
 	Ming
-Hades Gamma
-	Antaeus
+Hades Gamma X
+	Antaeus X
 	Cacus
 	Dis
 	Farinata
@@ -61,3 +59,13 @@ Voyager Cluster
 	Amazon
 	Columbia
 	Yangtze
+
+
+
+COMPLETED
+-----
+Artemis Tau -
+	Athens -
+	Knossos -
+	Macedon -
+	Sparta -
