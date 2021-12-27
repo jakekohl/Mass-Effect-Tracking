@@ -6,14 +6,14 @@ Current X
 
 TO DO
 ----------
-Argos Rho
+Argos Rho X
 	Gorgon
-	Hydra
-	Phoenix
-Armstrong Nebula
+	Hydra -
+	Phoenix -
+Armstrong Nebula X
 	Gagarin
 	Grissom
-	Hong
+	Hong X
 	Tereshkova
 	Vamshi
 Attican Beta
@@ -22,26 +22,21 @@ Attican Beta
 Exodus
 	Asgard
 	Utopia
-Gemini Sigma
-	Han
-	Ming
 Hades Gamma X
-	Antaeus X
-	Cacus
-	Dis
-	Farinata
+	Antaeus -
+	Cacus 
+	Dis -
+	Farinata -
 	Plutus
-Hawking Eta
-	Century
-Horse Head Nebula
-	Fortuna
-	Pax
-	Strenuus
-Kepler Verge
-	Herschel
-	Newton
+Horse Head Nebula X
+	Fortuna X (Helena Blake)
+	Pax X
+	Strenuus -
+Kepler Verge X
+	Herschel 
+	Newton -
 Local Cluster
-	Sol
+	Sol (VI Mission wait til leveled better)
 Maroon Sea
 	Caspian
 	Matano
@@ -55,8 +50,8 @@ Serpent Nebula
 Styx Theta
 	Acheron
 	Erebus
-Voyager Cluster
-	Amazon
+Voyager Cluster X
+	Amazon -
 	Columbia
 	Yangtze
 
@@ -69,3 +64,8 @@ Artemis Tau -
 	Knossos -
 	Macedon -
 	Sparta -
+Gemini Sigma -
+	Han -
+	Ming -
+Hawking Eta -
+	Century -
