@@ -1,13 +1,13 @@
+from os import error
 import sqlite3
 from typing import List
 import datetime
 
 def provision_db(db_file):
-    conn = none
     try:
-        sqlite3.connect(db_file)
+        conn = sqlite3.connect(db_file)
         print(sqlite3.version)
-    except Error as e:
+    except error as e:
         print(e)
     finally:
         if conn:
